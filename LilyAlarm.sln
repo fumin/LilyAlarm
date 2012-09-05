@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LilyAlarm", "LilyAlarm\LilyAlarm.vcxproj", "{192921CE-5CCF-4F59-8479-4013D56AF88B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{192921CE-5CCF-4F59-8479-4013D56AF88B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{192921CE-5CCF-4F59-8479-4013D56AF88B}.Debug|Win32.Build.0 = Debug|Win32
+		{192921CE-5CCF-4F59-8479-4013D56AF88B}.Release|Win32.ActiveCfg = Release|Win32
+		{192921CE-5CCF-4F59-8479-4013D56AF88B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
